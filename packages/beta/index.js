@@ -1,1 +1,1 @@
-module.exports = 'beta'+require('alpha');
+module.exports = 'beta '+require('alpha');

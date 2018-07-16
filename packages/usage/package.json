@@ -1,11 +1,11 @@
 {
   "name": "usage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "private": true,
   "dependencies": {
     "alpha": "^1.0.2",
-    "beta": "^1.0.3"
+    "beta": "^1.0.4"
   }
 }
