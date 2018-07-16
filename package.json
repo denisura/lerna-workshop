@@ -1,0 +1,12 @@
+{
+  "name": "lerna-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/denisura/lerna-workshop.git",
+  "author": "Denis Uraganov <github@uraganov.net>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^2.11.0"
+  }
+}
