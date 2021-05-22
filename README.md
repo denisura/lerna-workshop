@@ -27,6 +27,13 @@ tree -I 'node_modules'
 yarn lerna ls
 ```
 
+# Adding a “common” dependency to ALL packages
+```
+yarn add jest  --dev -W
+yarn add husky  --dev -W
+yarn add prettier  --dev -W
+```
+
 # Install `alpha` in all modules except `alpha`
 yarn lerna add alpha
 
